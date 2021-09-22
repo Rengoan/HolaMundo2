@@ -23,11 +23,11 @@ public class HolaMundo2 {
 //       soutv atajo para System.out.println("miVar = " + miVar);
         System.out.println("miVar = " + miVar);
 //        sout atajo System.out.println("Hola alumno");
-        System.out.println("Hola alumno");
+        System.out.println(miVar);
         
-        var piso = 2;
+        var texto2= " de CEEP";
         
-        System.out.println("piso = " + piso);
+        System.out.println(miVar + texto2);
         
     }
     
